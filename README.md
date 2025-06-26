@@ -1,7 +1,7 @@
 # COVID-Impact-NYC-Mousing-Market
 This project uses Tableau to visualize COVID-19’s impact on NYC housing through trend lines, filters, and interactive dashboards.
 
-The Impact of COVID-19 on New York City’s Housing Market: A Buyer and Seller Perspective
+**The Impact of COVID-19 on New York City’s Housing Market: A Buyer and Seller Perspective**
 
 **Project Overview**
 '
