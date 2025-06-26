@@ -4,7 +4,8 @@ This project uses Tableau to visualize COVID-19’s impact on NYC housing throug
 **The Impact of COVID-19 on New York City’s Housing Market: A Buyer and Seller Perspective**
 
 **Project Overview**
-'
+
+
 This project leverages data visualization techniques in Tableau to analyze the impact of COVID-19 on New York City’s housing market. The goal is to explore how housing inventory, prices, and buyer activity evolved in relation to macroeconomic disruptions — especially shifts in mortgage rates — across four major pandemic phases. This Tableau project provides a detailed, interactive view of New York City’s housing market from 2019 to 2025. By integrating local housing data with national mortgage rate trends, it offers insights into how COVID-19 influenced housing behaviors across different phases of the pandemic. 
 ________________________________________
 **1. Data Preparation and Cleaning**
