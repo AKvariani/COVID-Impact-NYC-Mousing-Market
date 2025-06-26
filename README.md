@@ -33,7 +33,7 @@ Cleaning and Transformation Steps:
 •	Calculated rolling averages where appropriate for visual smoothing
 ________________________________________
 
-2. Exploratory Analysis and Visualization in Tableau
+**2. Exploratory Analysis and Visualization in Tableau**
 
 Key metrics tracked:
 
@@ -53,7 +53,7 @@ Key Insights:
 
 •	Mortgage rates and inventory fluctuations strongly correlated with market behaviors.
 ________________________________________
-3. Interactive Dashboard in Tableau
+**3. Interactive Dashboard in Tableau**
 
 The Tableau dashboard offers dynamic visualizations that allow users to interact with key metrics and analyze trends over time:
 
@@ -68,7 +68,7 @@ Visualizations in the dashboard:
 •	Period Highlights: Summary boxes and narratives explain market behavior during each phase of the pandemic.
 ________________________________________
 
-4. Timeline Breakdown: COVID-19 Market Phases
+**4. Timeline Breakdown: COVID-19 Market Phases**
 
 The dashboard segments the NYC housing timeline into four distinct phases:
 
@@ -107,7 +107,7 @@ Prices plateaued or climbed slowly; demand weakened.
 
 Days on market rose again.
 ________________________________________
-5. Key Insights and Interpretations
+**5. Key Insights and Interpretations**
 
 •	The pandemic shock resulted in an immediate drop in listings, which rebounded as demand picked up during the recovery phase.
 
@@ -117,7 +117,7 @@ ________________________________________
 
 The Tableau dashboard allows users to interactively explore how housing trends evolved in response to the pandemic, offering insights into the dynamic relationship between inventory, prices, and mortgage rates.
 ________________________________________
-6. Project Files
+**6. Project Files**
 
 • **historicalweeklydata (1).CSV** - Dataset from Realtor.com containing weekly historical real estate metrics
 
