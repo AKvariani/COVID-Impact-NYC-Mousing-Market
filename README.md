@@ -117,3 +117,20 @@ ________________________________________
 
 The Tableau dashboard allows users to interactively explore how housing trends evolved in response to the pandemic, offering insights into the dynamic relationship between inventory, prices, and mortgage rates.
 ________________________________________
+6. Project Files
+
+• **historicalweeklydata (1).CSV** - Dataset from Realtor.com containing weekly historical real estate metrics
+
+• **RDC_Inventory_Core_Metrics_Zip_History.csv** - Dataset containing U.S. mortgage rate 
+
+• **Real_Estate.twb** - Tableau workbook (non-packaged); requires downloading the datasets separately and reconnecting them locallyts
+
+• **Real_Estate_Packaged.twbx** - ableau packaged workbook with embedded datasets; full dashboard accessible via
+
+• **Real_Estate.pdf** - PDF export of the Tableau dashboard for quick offline viewing
+
+• **README.PDF** - PDF version of the project README with description and usage instructions
+
+
+
+_______________________________________
