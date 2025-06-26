@@ -125,7 +125,7 @@ ________________________________________
 
 • **Real_Estate.twb** - Tableau workbook (non-packaged); requires downloading the datasets separately and reconnecting them locallyts
 
-• **Real_Estate_Packaged.twbx** - ableau packaged workbook with embedded datasets; full dashboard accessible via
+• **Real_Estate_Packaged.twbx** - ableau packaged workbook with embedded datasets; full dashboard accessible via this Google Drive Link: https://drive.google.com/file/d/1Xi1fqgt-HbyobnhPhEesJFwaLDN5W1St/view?usp=drive_link
 
 • **Real_Estate.pdf** - PDF export of the Tableau dashboard for quick offline viewing
 
