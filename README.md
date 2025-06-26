@@ -119,6 +119,8 @@ The Tableau dashboard allows users to interactively explore how housing trends e
 ________________________________________
 **6. Project Files**
 
+Below is a list of files included in this project. please download the files and adjust the file paths accordingly. Otherwise, a PDF version of the output results is available for review.
+
 • **historicalweeklydata (1).CSV** - Dataset from Realtor.com containing weekly historical real estate metrics
 
 • **RDC_Inventory_Core_Metrics_Zip_History.csv** - Dataset containing U.S. mortgage rate 
